@@ -1,6 +1,4 @@
-			empdata
-{
-	"data": [
+[
  {
    "Name": "Chrissy Thome",
    "Designation": "Internal Revenue Service Agent",
@@ -162,4 +160,3 @@
    "Salary": 61704
  }
 ]
-}

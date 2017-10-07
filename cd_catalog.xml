@@ -1,211 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CATALOG>
-	<CD>
-		<TITLE>Empire Burlesque</TITLE>
-		<ARTIST>Bob Dylan</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Columbia</COMPANY>
-		<PRICE>10.90</PRICE>
-		<YEAR>1985</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Hide your heart</TITLE>
-		<ARTIST>Bonnie Tyler</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>CBS Records</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1988</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Greatest Hits</TITLE>
-		<ARTIST>Dolly Parton</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>RCA</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1982</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Still got the blues</TITLE>
-		<ARTIST>Gary Moore</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Virgin records</COMPANY>
-		<PRICE>10.20</PRICE>
-		<YEAR>1990</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Eros</TITLE>
-		<ARTIST>Eros Ramazzotti</ARTIST>
-		<COUNTRY>EU</COUNTRY>
-		<COMPANY>BMG</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1997</YEAR>
-	</CD>
-	<CD>
-		<TITLE>One night only</TITLE>
-		<ARTIST>Bee Gees</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Polydor</COMPANY>
-		<PRICE>10.90</PRICE>
-		<YEAR>1998</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Sylvias Mother</TITLE>
-		<ARTIST>Dr.Hook</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>CBS</COMPANY>
-		<PRICE>8.10</PRICE>
-		<YEAR>1973</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Maggie May</TITLE>
-		<ARTIST>Rod Stewart</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Pickwick</COMPANY>
-		<PRICE>8.50</PRICE>
-		<YEAR>1990</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Romanza</TITLE>
-		<ARTIST>Andrea Bocelli</ARTIST>
-		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Polydor</COMPANY>
-		<PRICE>10.80</PRICE>
-		<YEAR>1996</YEAR>
-	</CD>
-	<CD>
-		<TITLE>When a man loves a woman</TITLE>
-		<ARTIST>Percy Sledge</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Atlantic</COMPANY>
-		<PRICE>8.70</PRICE>
-		<YEAR>1987</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Black angel</TITLE>
-		<ARTIST>Savage Rose</ARTIST>
-		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Mega</COMPANY>
-		<PRICE>10.90</PRICE>
-		<YEAR>1995</YEAR>
-	</CD>
-	<CD>
-		<TITLE>1999 Grammy Nominees</TITLE>
-		<ARTIST>Many</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Grammy</COMPANY>
-		<PRICE>10.20</PRICE>
-		<YEAR>1999</YEAR>
-	</CD>
-	<CD>
-		<TITLE>For the good times</TITLE>
-		<ARTIST>Kenny Rogers</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Mucik Master</COMPANY>
-		<PRICE>8.70</PRICE>
-		<YEAR>1995</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Big Willie style</TITLE>
-		<ARTIST>Will Smith</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Columbia</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1997</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Tupelo Honey</TITLE>
-		<ARTIST>Van Morrison</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Polydor</COMPANY>
-		<PRICE>8.20</PRICE>
-		<YEAR>1971</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Soulsville</TITLE>
-		<ARTIST>Jorn Hoel</ARTIST>
-		<COUNTRY>Norway</COUNTRY>
-		<COMPANY>WEA</COMPANY>
-		<PRICE>7.90</PRICE>
-		<YEAR>1996</YEAR>
-	</CD>
-	<CD>
-		<TITLE>The very best of</TITLE>
-		<ARTIST>Cat Stevens</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Island</COMPANY>
-		<PRICE>8.90</PRICE>
-		<YEAR>1990</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Stop</TITLE>
-		<ARTIST>Sam Brown</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>A and M</COMPANY>
-		<PRICE>8.90</PRICE>
-		<YEAR>1988</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Bridge of Spies</TITLE>
-		<ARTIST>T'Pau</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Siren</COMPANY>
-		<PRICE>7.90</PRICE>
-		<YEAR>1987</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Private Dancer</TITLE>
-		<ARTIST>Tina Turner</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Capitol</COMPANY>
-		<PRICE>8.90</PRICE>
-		<YEAR>1983</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Midt om natten</TITLE>
-		<ARTIST>Kim Larsen</ARTIST>
-		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Medley</COMPANY>
-		<PRICE>7.80</PRICE>
-		<YEAR>1983</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Pavarotti Gala Concert</TITLE>
-		<ARTIST>Luciano Pavarotti</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>DECCA</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1991</YEAR>
-	</CD>
-	<CD>
-		<TITLE>The dock of the bay</TITLE>
-		<ARTIST>Otis Redding</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Atlantic</COMPANY>
-		<PRICE>7.90</PRICE>
-		<YEAR>1987</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Picture book</TITLE>
-		<ARTIST>Simply Red</ARTIST>
-		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Elektra</COMPANY>
-		<PRICE>7.20</PRICE>
-		<YEAR>1985</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Red</TITLE>
-		<ARTIST>The Communards</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>London</COMPANY>
-		<PRICE>7.80</PRICE>
-		<YEAR>1987</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Unchain my heart</TITLE>
-		<ARTIST>Joe Cocker</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>EMI</COMPANY>
-		<PRICE>8.20</PRICE>
-		<YEAR>1987</YEAR>
-	</CD>
-</CATALOG>
+<root>
+  <row>
+    <Artist>Gabrielle Aplin</Artist>
+    <Title>Light Up the Dark</Title>
+    <Year>2015</Year>
+    <Price>6.12</Price>
+    <Company>Parlophone Records</Company>
+    <Country>UK</Country>
+  </row>
+  <row>
+    <Artist>Rebelution</Artist>
+    <Title>Falling into Place</Title>
+    <Year>2016</Year>
+    <Price>11.39</Price>
+    <Company>Easy Star Records</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>Bruno Mars</Artist>
+    <Title>24K Magic</Title>
+    <Year>2016</Year>
+    <Price>11.84</Price>
+    <Company>Atlantic</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>Sublime</Artist>
+    <Title>Sublime</Title>
+    <Year>1996</Year>
+    <Price>5.89</Price>
+    <Company>MCA Records</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>Tribal Seeds</Artist>
+    <Title>Representing </Title>
+    <Year>2014</Year>
+    <Price>13.99</Price>
+    <Company>Tribal Seeds Music</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>Bryson Tiller</Artist>
+    <Title>Trapsoul</Title>
+    <Year>2015</Year>
+    <Price>9.69</Price>
+    <Company>Trapsoul</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>The Weeknd</Artist>
+    <Title>Starboy</Title>
+    <Year>2016</Year>
+    <Price>11.42</Price>
+    <Company>Republic Records</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>Chainsmokers</Artist>
+    <Title>Closer</Title>
+    <Year>2016</Year>
+    <Price>7.99</Price>
+    <Company>Columbia</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>Charlie Puth</Artist>
+    <Title>Attention</Title>
+    <Year>2017</Year>
+    <Price>10.51</Price>
+    <Company>Atlantic</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>Luis Enriquw</Artist>
+    <Title>Ciclos</Title>
+    <Year>2009</Year>
+    <Price>19.46</Price>
+    <Company>Top Stop Music</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>Marc Anthony</Artist>
+    <Title>3.0</Title>
+    <Year>2013</Year>
+    <Price>6.78</Price>
+    <Company>Sony Music Latin</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>Chino &amp; Nacho</Artist>
+    <Title>Andas en Mi Cabeza</Title>
+    <Year>2016</Year>
+    <Price>4</Price>
+    <Company>Machete Music</Company>
+    <Country>Puerto Rico</Country>
+  </row>
+  <row>
+    <Artist>Juan Magan</Artist>
+    <Title>King is Back</Title>
+    <Year>2015</Year>
+    <Price>12.07</Price>
+    <Company>Universal Music</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>Shakira</Artist>
+    <Title>Chantaje</Title>
+    <Year>2016</Year>
+    <Price>9.99</Price>
+    <Company>Ace Entertainment</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>Nicky Jam</Artist>
+    <Title>Fenix</Title>
+    <Year>2017</Year>
+    <Price>7.29</Price>
+    <Company>Sony Music Latin</Company>
+    <Country>USA</Country>
+  </row>
+  <row>
+    <Artist>Juanes</Artist>
+    <Title>Un Dia Normal</Title>
+    <Year>2002</Year>
+    <Price>4.07</Price>
+    <Company>Universal Music</Company>
+    <Country>USA</Country>
+  </row>
+</root>

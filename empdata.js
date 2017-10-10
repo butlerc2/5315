@@ -1,12 +1,13 @@
+		empdata
 {
- "data": [
- {
+   "data": [
+   {
    "Name": "Chrissy Thome",
    "Designation": "Internal Revenue Service Agent",
    "Office": "Las Vegas",
    "Extension": "9490",
    "Joining Date": "2008 February 7",
-   "Salary": "116275"
+   "Salary": "$116275"
  },
  {
    "Name": "Elias Strelow",
@@ -14,7 +15,7 @@
    "Office": "Huntington",
    "Extension": "7716",
    "Joining Date": "2008 September 4",
-   "Salary": "35618"
+   "Salary": "$35618"
  },
  {
    "Name": "Jene Stfleur",
@@ -22,7 +23,7 @@
    "Office": "Wichita",
    "Extension": "7748",
    "Joining Date": "2008 September 26",
-   "Salary": "124330"
+   "Salary": "$124330"
  },
  {
    "Name": "Edris Sautter",
@@ -30,7 +31,7 @@
    "Office": "Indianapolis",
    "Extension": "1091",
    "Joining Date": "2009 June 10",
-   "Salary": "144903"
+   "Salary": "$144903"
  },
  {
    "Name": "Williams Aubert",
@@ -38,7 +39,7 @@
    "Office": "Tampa",
    "Extension": "7500",
    "Joining Date": "2009 September 7",
-   "Salary": "133575"
+   "Salary": "$133575"
  },
  {
    "Name": "Nisha Harring",
@@ -46,7 +47,7 @@
    "Office": "Toledo",
    "Extension": "8345",
    "Joining Date": "2009 December 11",
-   "Salary": "180931"
+   "Salary": "$180931"
  },
  {
    "Name": "Dawne Troupe",
@@ -54,7 +55,7 @@
    "Office": "St Paul",
    "Extension": "8671",
    "Joining Date": "2010 June 10",
-   "Salary": "52353"
+   "Salary": "$52353"
  },
  {
    "Name": "Claire Theroux",
@@ -62,7 +63,7 @@
    "Office": "Baton Rouge",
    "Extension": "6864",
    "Joining Date": "2011 March 15",
-   "Salary": "189280"
+   "Salary": "$189280"
  },
  {
    "Name": "Justine Vallejo",
@@ -70,7 +71,7 @@
    "Office": "Raleigh",
    "Extension": "3755",
    "Joining Date": "2011 August 4",
-   "Salary": "159888"
+   "Salary": "$159888"
  },
  {
    "Name": "Colby Friedrichs",
@@ -78,7 +79,7 @@
    "Office": "Chicago",
    "Extension": "5983",
    "Joining Date": "2011 December 7",
-   "Salary": "158669"
+   "Salary": "$158669"
  },
  {
    "Name": "Sina Regner",
@@ -86,7 +87,7 @@
    "Office": "Colorado Springs",
    "Extension": "2123",
    "Joining Date": "2012 March 5",
-   "Salary": "176305"
+   "Salary": "$176305"
  },
  {
    "Name": "Marcel Crossno",
@@ -94,7 +95,7 @@
    "Office": "San Francisco",
    "Extension": "5205",
    "Joining Date": "2012 August 30",
-   "Salary": "197281"
+   "Salary": "$197281"
  },
  {
    "Name": "Min Brashears",
@@ -102,7 +103,7 @@
    "Office": "Fort Worth",
    "Extension": "1496",
    "Joining Date": "2013 November 6",
-   "Salary": "51431"
+   "Salary": "$51431"
  },
  {
    "Name": "Shelton Cappelli",
@@ -110,7 +111,7 @@
    "Office": "Montgomery",
    "Extension": "6911",
    "Joining Date": "2014 July 30",
-   "Salary": "123315"
+   "Salary": "$123315"
  },
  {
    "Name": "Dayle Mayhugh",
@@ -118,7 +119,7 @@
    "Office": "Plano",
    "Extension": "2485",
    "Joining Date": "2014 December 15",
-   "Salary": "88920"
+   "Salary": "$88920"
  },
  {
    "Name": "Ceola Senko",
@@ -126,7 +127,7 @@
    "Office": "Oakland",
    "Extension": "5597",
    "Joining Date": "2015 April 15",
-   "Salary": "156619"
+   "Salary": "$156619"
  },
  {
    "Name": "Jill Thoreson",
@@ -134,7 +135,7 @@
    "Office": "Lubbock",
    "Extension": "2685",
    "Joining Date": "2016 April 15",
-   "Salary": "77410"
+   "Salary": "$77410"
  },
  {
    "Name": "Celena Ziglar",
@@ -142,7 +143,7 @@
    "Office": "Minneapolis",
    "Extension": "3403",
    "Joining Date": "2017 May 19",
-   "Salary": "49699"
+   "Salary": "$49699"
  },
  {
    "Name": "Ina Wadley",
@@ -150,7 +151,7 @@
    "Office": "Fort Wayne",
    "Extension": "1645",
    "Joining Date": "2017 June 1",
-   "Salary": "135528"
+   "Salary": "$135528"
  },
  {
    "Name": "Arnulfo Hon",
@@ -158,7 +159,7 @@
    "Office": "New Orleans",
    "Extension": "4056",
    "Joining Date": "2017 August 4",
-   "Salary": "61704"
+   "Salary": "$61704"
  }
 ]
 }
